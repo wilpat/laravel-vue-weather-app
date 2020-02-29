@@ -7,6 +7,7 @@ Here is a simple weather app built using laravel, vue, and tailwind.css
 ## API
 
 [Dark Sky](https://darksky.net/dev) - For weather information
+
 [Skycons](https://darkskyapp.github.io/skycons/) - For weather icon and animation
 
 ## Installation
